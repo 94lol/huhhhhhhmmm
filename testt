@@ -18,11 +18,11 @@ local currentAnimSpeed = 1.0
 local animTable = {}
 local animNames = { 
 	idle = 	{	
-				{ id = "http://www.roblox.com/asset/?id=180435571", weight = 9 },
-				{ id = "http://www.roblox.com/asset/?id=180435792", weight = 1 }
+				{ id = "http://www.roblox.com/asset/?id=11637767006", weight = 9 },
+				{ id = "http://www.roblox.com/asset/?id=11637767006", weight = 1 }
 			},
 	walk = 	{ 	
-				{ id = "http://www.roblox.com/asset/?id=180426354", weight = 10 } 
+				{ id = "http://www.roblox.com/asset/?id=9354667355", weight = 10 } 
 			}, 
 	run = 	{
 				{ id = "run.xml", weight = 10 } 
